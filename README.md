@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="/hardware/images/project_status_1" alt="Project Image 1" width="400">
+  <img src="/hardware/images/project_status_2" alt="Project Image 2" width="400">
+</p>
+
+
+
+
 # 📌 Robotic Arm Hand Gesture Control
 
 🚀 An AI-powered robotic arm that mimics hand gestures in real-time using OpenCV, MediaPipe, and Arduino.
