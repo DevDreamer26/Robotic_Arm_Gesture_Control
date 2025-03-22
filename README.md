@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="/hardware/images/project_status_1" alt="Project Image 1" width="400">
-  <img src="/hardware/images/project_status_2" alt="Project Image 2" width="400">
+  <img src="path/to/image1.png" alt="Project Image 1" width="400" height="300">
+  <img src="path/to/image2.png" alt="Project Image 2" width="400" height="300">
 </p>
 
 
